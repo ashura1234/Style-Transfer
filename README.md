@@ -41,6 +41,8 @@ Result by running 10000 steps with 0.003 learning rate:
 |<img  src="https://github.com/ashura1234/Style-Transfer/blob/main/Images/Dog.jpg?raw=true"  width=240>|<img  src="https://github.com/ashura1234/Style-Transfer/blob/main/Styles/Desert.jpg?raw=true"  width=240>|<img  src="https://github.com/ashura1234/Style-Transfer/blob/main/Results/0004.jpg?raw=true"  width=240>|
 |<img  src="https://github.com/ashura1234/Style-Transfer/blob/main/Images/City.jpg?raw=true"  width=240>|<img  src="https://github.com/ashura1234/Style-Transfer/blob/main/Styles/StarryNight.jpg?raw=true"  width=240>|<img  src="https://github.com/ashura1234/Style-Transfer/blob/main/Results/0005.jpg?raw=true"  width=240>|
 
+### Output Video
+
 ![](https://github.com/ashura1234/Style-Transfer/blob/main/Results/0005.gif?raw=true)
 
 
@@ -49,5 +51,5 @@ Result by running 10000 steps with 0.003 learning rate:
 rslim087a
 https://github.com/rslim087a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjQ0MzY0Nl19
+eyJoaXN0b3J5IjpbMTg0MjQ2MTExOV19
 -->
