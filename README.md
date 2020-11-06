@@ -6,7 +6,7 @@
 -   Transfer learning VGG-19 model to extract content feature points and style feature points from the convolution layers.
 ## Environment
 - python 3.7.9
-- jupyter core     : 4.6.3
+- jupyter-core: 4.6.3
 - jupyter-notebook : 6.0.3
 - pytorch 1.6.0
 - torchvision 0.7.0
@@ -18,7 +18,7 @@
 Clone the repository with the following command:
 
 ```bash
-git clone https://github.com/ashura1234/Style-Transfer
+git clone https://github.com/ashura1234/Style-Transfer.git
 ```
 ## Data Preperation
 Prepare images you like to change the style and extract the style from.
@@ -51,5 +51,5 @@ Result by running 10000 steps with 0.003 learning rate:
 rslim087a
 https://github.com/rslim087a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzMzQ4MTVdfQ==
+eyJoaXN0b3J5IjpbMTg2NjYzNTk3Ml19
 -->
